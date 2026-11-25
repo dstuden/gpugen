@@ -1,0 +1,4 @@
+github.com/gogpu/naga v0.22.7 h1:SuK8f0ypsHDBjf/Erwm5navKJz4M390+W0XbGmXC+mE=
+github.com/gogpu/naga v0.22.7/go.mod h1:15sQaHKkbqXcwTN+hHYGLsA0WBBnkmYzne/eF5p5WEg=
+golang.org/x/tools v0.53.0 h1:T3bIVp3zjHG9/aEiFk6BXxFh5/Vcbk7JA5hRq1cG8IU=
+golang.org/x/tools v0.53.0/go.mod h1:vg+Vrb7y5mTTtxZLTdbTK8G745wcaLcsCtgCWgQONCI=
